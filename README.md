@@ -9,7 +9,13 @@
 * [Foundation](http://foundation.zurb.com)
 * [Materialize](http://materializecss.com) -- 基于 Material Design 的现代响应式前端框架，页面显示效果很棒。对Chrome、Firefox的支持不错，但是对IE的支持性不好，一般性的企业网站项目慎用。
 * [Layui](http://http://www.layui.com) -- 国产UI框架，MIT协议，兼容IE8+，并且多数结构支持响应式。但是，它的网格和布局系统怎么找不到？？
-* [Ant Design](https://ant.design) -- 蚂蚁金服出的一款前端框架，兼容IE9+，MIT协议。
+* [Ant Design](https://ant.design) -- 蚂蚁金服出的一款前端框架，兼容IE9+，MIT授权。
+* [Pure CSS](https://purecss.io/) -- Yahoo出品的一款小巧纯净的CSS框架，兼容IE8+，YahooBSD授权。含Base，Grids，Forms，Buttons，Tables，Menus等模块，压缩版仅约5KB不到。还可和Bootstrap等组合使用。
+
+
+## 基础框架
+
+[Normalize.css](https://necolas.github.io/normalize.css/) -- Normalize.css 是一个可以定制的CSS文件，它让不同的浏览器在渲染网页元素的时候形式更统一。兼容IE8+，Safari6+。MIT授权。
 
 
 ## js
@@ -25,7 +31,7 @@
 
 ## 菜单和导航条
 
-* [megamenu-js](https://github.com/marioloncarek/megamenu-js) -- 兼容IE8+, 无需定义css的class，智能化（知道什么时候需要显示megamenu），100%响应式，可wordpress集成，开源，MIT协议。
+* [megamenu-js](https://github.com/marioloncarek/megamenu-js) -- 兼容IE8+, 无需定义css的class，智能化（知道什么时候需要显示megamenu），100%响应式，可wordpress集成，开源，MIT授权。
 
 
 ## 免费图库
